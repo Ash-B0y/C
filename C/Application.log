@@ -1,0 +1,4 @@
+alert:getpwuid-couldn’t determine user name from uid
+critical:socket-Failed to get a socket, exiting child
+error:Premature end of script headers	
+notification:you have received a message
